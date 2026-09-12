@@ -1,0 +1,6 @@
+{
+  "name": "3D Shooting Range",
+  "description": "An interactive 3D shooting range simulation built with Three.js featuring an M4A1 rifle model, target dummies, multiple firing distances, realistic weapon mechanics, and scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
